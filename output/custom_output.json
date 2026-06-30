@@ -1,0 +1,95 @@
+[
+  {
+    "full_name": "Asha Mehta",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.9
+      },
+      "primary_email": {
+        "confidence": 0.9
+      },
+      "phone": {
+        "confidence": 0.6
+      }
+    },
+    "primary_email": "asha.mehta@example.com",
+    "phone": "+19876543210",
+    "skills": [
+      "kubernetes",
+      "postgresql",
+      "python"
+    ]
+  },
+  {
+    "full_name": "Rohan Iyer",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.9
+      },
+      "primary_email": {
+        "confidence": 0.9
+      },
+      "phone": {
+        "confidence": 0.9
+      }
+    },
+    "primary_email": "rohan.iyer@example.com",
+    "phone": "+14155550192",
+    "skills": [
+      "machine learning",
+      "pandas",
+      "python",
+      "sql",
+      "tensorflow"
+    ]
+  },
+  {
+    "full_name": "Priya Nair",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.9
+      },
+      "primary_email": {
+        "confidence": 0.9
+      },
+      "phone": {
+        "confidence": 0.6
+      }
+    },
+    "primary_email": "priya.notes-only@example.com",
+    "phone": "+19123456780",
+    "skills": null
+  },
+  {
+    "full_name": "Dev Kapoor",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.7
+      },
+      "primary_email": {
+        "confidence": 0.7
+      },
+      "phone": {
+        "confidence": 0.6
+      }
+    },
+    "primary_email": "dev.kapoor@example.com",
+    "phone": "+14155552671",
+    "skills": [
+      "kubernetes",
+      "python",
+      "tensorflow"
+    ]
+  },
+  {
+    "full_name": "Garbage Entry With No Useful Fields",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.7
+      }
+    },
+    "primary_email": null,
+    "phone": null,
+    "skills": null
+  }
+]

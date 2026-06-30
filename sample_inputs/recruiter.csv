@@ -1,0 +1,5 @@
+name,email,phone,current_company,title
+Asha Mehta,asha.mehta@example.com,9876543210,Initech,Senior Backend Engineer
+Rohan Iyer,rohan.iyer@example.com,(415) 555-0192,Globex,Data Scientist
+,,,,
+Priya Nair,priya.notes-only@example.com,,Acme Corp,Product Manager

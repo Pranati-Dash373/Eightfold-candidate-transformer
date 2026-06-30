@@ -1,0 +1,20 @@
+Rohan Iyer
+rohan.iyer@example.com | +1 415-555-0192
+
+Summary
+Data scientist with 6 years of experience building ML pipelines.
+
+Skills
+Python, SQL, TensorFlow, Machine Learning, Pandas
+
+Experience
+Globex - Data Scientist
+Jan 2022 - Present
+Built forecasting models for supply chain optimization.
+
+Quantix - Junior Data Analyst
+Summer 2019 - Dec 2021
+Supported reporting pipelines.
+
+Education
+B.Tech Computer Science, IIT Bombay, 2018

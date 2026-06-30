@@ -1,0 +1,350 @@
+[
+  {
+    "candidate_id": "cand_0001",
+    "full_name": "Asha Mehta",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      },
+      "emails": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      },
+      "phones": {
+        "confidence": 0.6,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      }
+    },
+    "emails": [
+      "asha.mehta@example.com"
+    ],
+    "phones": [
+      "+19876543210",
+      "+919876500000"
+    ],
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "kubernetes",
+        "confidence": 0.7,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "postgresql",
+        "confidence": 0.7,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.7,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Initech",
+        "title": "Senior Backend Engineer",
+        "start": null,
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": null,
+    "overall_confidence": 0.75
+  },
+  {
+    "candidate_id": "cand_0002",
+    "full_name": "Rohan Iyer",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "resume",
+            "method": "first_line_heuristic"
+          }
+        ]
+      },
+      "emails": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "resume",
+            "method": "regex_extract"
+          }
+        ]
+      },
+      "phones": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "resume",
+            "method": "regex_extract"
+          }
+        ]
+      }
+    },
+    "emails": [
+      "rohan.iyer@example.com"
+    ],
+    "phones": [
+      "+14155550192"
+    ],
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "machine learning",
+        "confidence": 0.5,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "pandas",
+        "confidence": 0.5,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.5,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "sql",
+        "confidence": 0.5,
+        "sources": [
+          "resume"
+        ]
+      },
+      {
+        "name": "tensorflow",
+        "confidence": 0.5,
+        "sources": [
+          "resume"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Globex",
+        "title": "Data Scientist",
+        "start": null,
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": null,
+    "overall_confidence": 0.65
+  },
+  {
+    "candidate_id": "cand_0003",
+    "full_name": "Priya Nair",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "recruiter_notes",
+            "method": "regex_extract"
+          }
+        ]
+      },
+      "emails": {
+        "confidence": 0.9,
+        "provenance": [
+          {
+            "source": "recruiter_csv",
+            "method": "direct_field"
+          },
+          {
+            "source": "recruiter_notes",
+            "method": "regex_extract"
+          }
+        ]
+      },
+      "phones": {
+        "confidence": 0.6,
+        "provenance": [
+          {
+            "source": "recruiter_notes",
+            "method": "regex_extract"
+          }
+        ]
+      }
+    },
+    "emails": [
+      "priya.notes-only@example.com"
+    ],
+    "phones": [
+      "+19123456780"
+    ],
+    "headline": null,
+    "years_experience": null,
+    "skills": null,
+    "experience": [
+      {
+        "company": "Acme Corp",
+        "title": "Product Manager",
+        "start": null,
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": null,
+    "overall_confidence": 0.8
+  },
+  {
+    "candidate_id": "cand_0004",
+    "full_name": "Dev Kapoor",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.7,
+        "provenance": [
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      },
+      "emails": {
+        "confidence": 0.7,
+        "provenance": [
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      },
+      "phones": {
+        "confidence": 0.6,
+        "provenance": [
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      }
+    },
+    "emails": [
+      "dev.kapoor@example.com"
+    ],
+    "phones": [
+      "+14155552671"
+    ],
+    "headline": null,
+    "years_experience": null,
+    "skills": [
+      {
+        "name": "kubernetes",
+        "confidence": 0.7,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "python",
+        "confidence": 0.7,
+        "sources": [
+          "ats_json"
+        ]
+      },
+      {
+        "name": "tensorflow",
+        "confidence": 0.7,
+        "sources": [
+          "ats_json"
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hooli",
+        "title": "ML Engineer",
+        "start": null,
+        "end": "present",
+        "summary": null
+      }
+    ],
+    "education": null,
+    "overall_confidence": 0.68
+  },
+  {
+    "candidate_id": "cand_0005",
+    "full_name": "Garbage Entry With No Useful Fields",
+    "_field_meta": {
+      "full_name": {
+        "confidence": 0.7,
+        "provenance": [
+          {
+            "source": "ats_json",
+            "method": "direct_field"
+          }
+        ]
+      }
+    },
+    "emails": null,
+    "phones": null,
+    "headline": null,
+    "years_experience": null,
+    "skills": null,
+    "experience": null,
+    "education": null,
+    "overall_confidence": 0.7
+  }
+]

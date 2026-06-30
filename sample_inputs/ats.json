@@ -1,0 +1,23 @@
+{
+  "candidates": [
+    {
+      "candidate_name": "Asha Mehta",
+      "contact_email": "asha.mehta@example.com",
+      "contact_phone": "+91-9876500000",
+      "employer": "Initech",
+      "job_title": "Sr. Backend Engineer",
+      "skill_tags": ["Python", "Kubernetes", "Postgres"]
+    },
+    {
+      "candidate_name": "Dev Kapoor",
+      "contact_email": "dev.kapoor@example.com",
+      "contact_phone": "14155552671",
+      "employer": "Hooli",
+      "job_title": "ML Engineer",
+      "skill_tags": ["TF", "py", "K8s"]
+    },
+    {
+      "name": "Garbage Entry With No Useful Fields"
+    }
+  ]
+}

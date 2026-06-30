@@ -1,0 +1,8 @@
+Candidate: Priya Nair
+Spoke with Priya on a referral call. She's currently a PM at Acme Corp,
+seems strong on roadmap planning. Reachable at priya.notes-only@example.com
+or by phone at 9123456780. Mentioned she's also done some SQL and Excel
+analysis work but is not a core skill for her.
+
+Also briefly mentioned a second candidate, no real signal:
+just heard about someone at a meetup, no contact info.
